@@ -18,7 +18,7 @@ function Home() {
       }}>
         <p style={{ 
         position: 'absolute', 
-        top: '30%', 
+        top: '40%', 
         left: '50%', 
         transform: 'translate(-50%, -50%)',
         color: 'white',
@@ -30,7 +30,7 @@ function Home() {
       </p><br></br>
       <p style={{ 
         position: 'absolute', 
-        top: '40%', 
+        top: '70%', 
         left: '50%', 
         transform: 'translate(-50%, -50%)',
         color: 'white',
@@ -42,7 +42,7 @@ function Home() {
       </p><br></br>
       <button style={{ 
         position: 'absolute', 
-        bottom: '390px', 
+        bottom: '220px', 
         left: '50%', 
         transform: 'translateX(-50%)',
         padding: '10px 20px',

@@ -1,11 +1,11 @@
 import { BrowserRouter,Routes,Route } from "react-router-dom";
 
 import Home from "./Home";
-import Portfolio from "./Portfolio1";
-import About from "./About";
-import Books from "./Books";
-import ClientAlbum from "./ClientAlbum";
-import Contact from "./Contact";
+import Portfolio from "../Pages/Portfolio";
+import About from "../Pages/About";
+import Books from "../Pages/Books";
+import ClientAlbum from "../Pages/ClientAlbum";
+import Contact from "../Pages/Contact";
 
 
 
